@@ -1,2 +1,2 @@
 # testes-python
- Testes de Python realizados no curso
+ Aulas práticas e testes realizados no curso de Python oferecido pelo Curso em Vídeo.
